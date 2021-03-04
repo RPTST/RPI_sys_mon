@@ -2,14 +2,14 @@
 
 I did not create this and take no credit nor responsibility thereto, for the bash script.
 
-1. Copy the script to you home directory
+Copy the script to you home directory
 
-    nano sys_mon.sh
+    nano ~/sys_mon.sh
+    
+Make executable
 
-3. Make executable 
-  
-  chmod +x sys_mon.sh
+    chmod +x ~/sys_mon.sh
+    
+Run
 
-4. Run
-  
-  ./sys_mon.sh
+    sh ~/sys_mon.sh
